@@ -1,5 +1,5 @@
 **[BACKUP]** <br />
-CMSC 21 - Foundations of Programming
+CMSC 21 - Fundamentals of Programming
 
 Gabinete, Keith Ginoel S. <br />
 BS Computer Science <br />
