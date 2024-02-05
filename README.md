@@ -1,4 +1,4 @@
-[BACKUP] <br />
+**[BACKUP]** <br />
 CMSC 21 - Foundations of Programming
 
 Gabinete, Keith Ginoel S. <br />
